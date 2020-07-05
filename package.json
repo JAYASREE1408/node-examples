@@ -1,0 +1,24 @@
+{
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "node examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "no",
+    "start":"node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAYASREE1408/node-examples.git"
+  },
+  "keywords": [
+    "node",
+    "examples"
+  ],
+  "author": "Jayasree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAYASREE1408/node-examples/issues"
+  },
+  "homepage": "https://github.com/JAYASREE1408/node-examples#readme"
+}
